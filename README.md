@@ -65,7 +65,7 @@ Full Stack Developer • MERN Stack • Java • Spring Boot • AI Enthusiast
 
 📧 atharv.shelar14@gmail.com
 
-💼 LinkedIn (Add your LinkedIn URL here)
+💼 www.linkedin.com/in/atharv-shelar14092005
 
 ---
 
