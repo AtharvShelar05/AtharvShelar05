@@ -5,7 +5,7 @@ Full Stack Developer • MERN Stack • Java • Spring Boot • AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+to+Internship" />
 </p>
 
 ---
