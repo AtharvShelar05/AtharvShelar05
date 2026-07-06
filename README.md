@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Atharv Shelar</h1>
 
-<!--
-**AtharvShelar05/AtharvShelar05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer • MERN Stack • Java • Spring Boot • AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+Internship+Opportunities" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+🎓 BE Information Technology Student
+
+💻 Passionate Full Stack Developer
+
+🌱 Currently Learning
+
+- Spring Boot
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+
+🚀 Current Projects
+
+- 📰 Fake News Detection System
+- 📚 Online Bookstore
+- 🎓 Student ERP
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,spring,mongodb,mysql,git,github,vscode,html,css,bootstrap"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtharvShelar05&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvShelar05&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AtharvShelar05&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect with Me
+
+📧 atharv.shelar14@gmail.com
+
+💼 LinkedIn (Add your LinkedIn URL here)
+
+---
+
+⭐ Thanks for visiting my profile!
